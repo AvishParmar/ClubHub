@@ -1,0 +1,1 @@
+// Represents a club item represented in the sidebar as an interactive button used for filtering feed items.

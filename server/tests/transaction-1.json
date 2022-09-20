@@ -1,0 +1,34 @@
+{
+    "transactions": [
+        {
+            "title": "Cookies Social cookies purchase",
+            "transactionAmount": 10.99,
+            "organizationFor": "Stony Brook Computing Society",
+            "recordedBy": "Avish Parmar",
+            "description": "Cost of the cookies for the Cookies Social event"
+        },
+        {
+            "title": "Spring Collab w/ WiCS",
+            "transactionAmount": 600,
+            "organizationFor": "Stony Brook Computing Society",
+            "recordedBy": "Samin Malik",
+            "description": "Cost consists of catering services, plates, cutlery, and napkins"
+        },
+        {
+            "title": "Kookies and Kahoot",
+            "transactionAmount": 50,
+            "organizationFor": "Stony Brook Computing Society",
+            "recordedBy": "Everett Yang",
+            "description": "Insomnia Cookies bundle bought for the event."
+        },
+        {
+            "title": "Discord Nitro Giveaway",
+            "transactionAmount": 20,
+            "organizationFor": "Stony Brook Computing Society",
+            "recordedBy": "Avish Parmar",
+            "description": "Discord Nitro subscriptions for the winners of welcome back event"
+        }
+        
+    ]
+
+}

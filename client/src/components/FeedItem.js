@@ -1,0 +1,1 @@
+// Represents a feed item present in Workspace, includes all necessary components part of a club's announcement.
