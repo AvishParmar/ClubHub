@@ -1,5 +1,5 @@
 ﻿# ClubHub
-Project in progress as part of Stony Brook's Vertically Integrated Projects Team: Tech Businesses in Development
+Project in progress as part of Stony Brook University's Vertically Integrated Projects Team: Tech Businesses in Development
 
 2022 Update:
 Current Team Members: Avish Parmar, Mir Farid, Okuchukwu Nwaduwa, Tahsin Ahmed
