@@ -4,6 +4,7 @@ Project in progress as part of Stony Brook's Vertically Integrated Projects Team
 2022 Update:
 
 Current Team Members: Avish Parmar, Mir Farid, Okuchukwu Nwaduwa, Tahsin Ahmed
+
 Goals for Fall 2022:
 * Direct all focus to the Backend API:
   - Create schemas for all pages
