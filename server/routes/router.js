@@ -2,6 +2,7 @@ const auth = require('../auth')
 const express = require('express')
 const UserController = require('../controllers/user-controller')
 const TransactionController = require('../controllers/transaction-controller')
+const ClubController = require('../controllers/club-controller')
 const router = express.Router()
 
 router.post('/register', UserController.registerUser)
@@ -12,4 +13,5 @@ router.delete('/transactions/:id', auth.verify, TransactionController.deleteTran
 router.put('/transactions/:id', auth.verify, TransactionController.updateTransaction)
 router.get('/transactions/:id', auth.verify, TransactionController.getTransaction)
 
+router.post('/clubs', ClubController.createClub)
 module.exports = router
