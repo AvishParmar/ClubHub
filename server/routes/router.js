@@ -13,5 +13,9 @@ router.delete('/transactions/:id', auth.verify, TransactionController.deleteTran
 router.put('/transactions/:id', auth.verify, TransactionController.updateTransaction)
 router.get('/transactions/:id', auth.verify, TransactionController.getTransaction)
 
-router.post('/clubs', ClubController.createClub)
+router.post('/club', ClubController.createClub)
+router.get('/clubs', ClubController.getAllClubs)
+router.get('/clubs/:id', ClubController.getClub)
+router.put('/clubs/:id', ClubController.updateClub)
+router.delete('/clubs/:id', ClubController.deleteClub)
 module.exports = router
